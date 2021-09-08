@@ -1,3 +1,6 @@
+Hi there!:flushed: Any dog snacks for me?:dog2:
+
+<!--
 **PliantSoup/pliantsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <a href="https://github.com/pliantsoup/pliantsoup">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pliantsoup&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
 </a>
