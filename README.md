@@ -1,4 +1,4 @@
-<b> Hi there!:flushed: Any dog snacks for me?:dog2: </b>
+<font size = "7"> Hi there!:flushed: Any dog snacks for me?:dog2: </font>
 
 <!--
 **PliantSoup/pliantsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
