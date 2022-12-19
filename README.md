@@ -1,5 +1,4 @@
-# **Hi there!:flushed: Any dog snacks for me?:dog2:**
-<a href="https://imgur.com/J1yXNBt"><img src="https://i.imgur.com/J1yXNBt.gif" title="source: imgur.com" /></a>
+# **Hi there!:flushed:**
 
 <!--
 **PliantSoup/pliantsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
